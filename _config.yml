@@ -1,0 +1,10 @@
+remote_theme: contrast@master
+plugins:
+  - jekyll-remote-theme
+
+title: Food Classifier
+description: confused about unkonwin food or cna't decided what's in the menu? Here is the solution with 303 different food items.
+
+author:
+  name: Tirtha Debnath
+  Institution: Jashore University of Science and Technology
