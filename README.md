@@ -1,5 +1,5 @@
 ---
-title: Food Classifier
+title: Food Recognizer
 emoji: ⚡
 colorFrom: red
 colorTo: yellow
