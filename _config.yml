@@ -2,7 +2,7 @@ remote_theme: daviddarnes/alembic@main
 plugins:
 - jekyll-remote-theme
 
-title: Food Classifier
+title: Food recognizer
 description: An image classification API that classifies 303 different types of foods
 
 author:
