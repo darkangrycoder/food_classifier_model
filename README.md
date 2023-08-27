@@ -40,7 +40,24 @@ The Food Classifier project boasts a range of features that make it stand out:
 
 ## Data Collection
 
-A critical aspect of building an accurate food classifier is the availability of a comprehensive and diverse dataset. The project's dataset was collected from various sources, including open-access food image repositories, cooking websites, and user-contributed content. The dataset includes a wide range of food categories, ensuring that the model is capable of generalizing across different cuisines and dishes.
+1. Clone the repo
+```bash
+git clone https://github.com/darkangrycoder/food_classifier_model.git
+```
+2. Intialize and activate virtual environment
+```bash
+virtualenv --no-site-packages  venv
+source venv/bin/activate
+```
+3. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+4. Download Chrome WebDrive from https://chromedriver.chromium.org/downloads 
+5. Run the scrapers
+```bash
+python -u food_item_scraping-1.py 
+```
 
 ## Data Preprocessing
 
